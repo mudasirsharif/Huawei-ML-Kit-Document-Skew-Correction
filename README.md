@@ -18,3 +18,5 @@ HMS ML Kit document skew correction service can be widely used in so many daily 
 2. When recording a card, you can take a photo of the front side of the card without directly facing the card. 
 
 3. When the road signs on both sides of the road cannot be accurately identified due to the tilted position during the trip, you can use this service to take photos of the front side of the road signs to facilitate travel.
+
+![](document_skew_correction_demo.gif)
